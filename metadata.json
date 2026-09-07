@@ -1,0 +1,8 @@
+{
+  "name": "CloudGuard AI – Cloudburst Prediction & Early Warning Platform",
+  "description": "AI-based Cloudburst Prediction, Multi-Source Weather Intelligence, Geospatial Risk Mapping, and Early Warning System for Disaster Authorities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
